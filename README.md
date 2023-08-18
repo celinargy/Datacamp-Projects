@@ -1,5 +1,20 @@
-# Datacamp
-## 📊 Guided Projects using Python
+# Data Scientist Associate Certfication
+
+Focus area: Data analysis using Python.
+
+Period: Jan - Aug 2023 
+
+At the end of the course, these are my 🔑 key learnings:
+- Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas
+- Apply inferential statistics and probability to real-world scenarios, such as building supervised learning models
+- Learn and use the most popular Python libraries for data science, including pandas, Seaborn, Matplotlib, scikit-learn
+- Apply visualization principles to the data analysis process and explore data visually at multiple levels to find insights and create a compelling story.
+
+Additionnally to this track, I completed "Object-oriented programming with Python" as well as "Data Engineering for Data Scientists in Python".
+
+View the [course and syllabus]([url](https://www.datacamp.com/tracks/data-scientist-with-python)).
+
+# 📊 Guided Projects using Python
 ### 1. Predictive modelling for agriculture
 
 🔑 Key Learnings
