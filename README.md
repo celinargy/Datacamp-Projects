@@ -25,7 +25,7 @@ View the [course and syllabus]([url](https://www.datacamp.com/tracks/data-scient
 
 View my project here.
 
-### 2. Interpreting Unsupervised Learning Models
+### 2. Unsupervised Learning Models with Penguins
 
 🔑 Key Learnings
 
