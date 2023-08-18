@@ -14,7 +14,7 @@ Additionnally to this track, I completed "Object-oriented programming with Pytho
 
 View the [course and syllabus]([url](https://www.datacamp.com/tracks/data-scientist-with-python)).
 
-# 📊 Guided Projects using Python
+# 📊 Projects using Python
 ### 1. Predictive modelling for agriculture
 
 🔑 Key Learnings
@@ -79,6 +79,6 @@ View my project here.
 
 View my project here.
 
-## 📊 Guided Projects using SQL
+# 📊 Projects using SQL
 
 WYP.
