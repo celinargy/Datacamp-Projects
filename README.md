@@ -34,7 +34,7 @@ View my project here.
 
 View my project here.
 
-### 3. Data Driven Product Management: Conducting a Market Analysis
+### 3. Product Management: Conducting a Market Analysis
 
 🔑 Key Learnings
 
