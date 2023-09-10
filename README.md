@@ -25,7 +25,7 @@ View the [course and syllabus]([url](https://www.datacamp.com/tracks/data-scient
 
 View my project here.
 
-### 2. Interpreting Unsupervised Learning Models
+### 2. Unsupervised Learning Models with Penguins
 
 🔑 Key Learnings
 
@@ -34,7 +34,7 @@ View my project here.
 
 View my project here.
 
-### 3. Data Driven Product Management: Conducting a Market Analysis
+### 3. Product Management: Conducting a Market Analysis
 
 🔑 Key Learnings
 
