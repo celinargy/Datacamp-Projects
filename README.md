@@ -23,7 +23,7 @@ View the [course and syllabus](https://www.datacamp.com/tracks/data-scientist-wi
 - Correlation analysis to avoid multicollinearity.
 - Performance evaluation using accuracy score and ROC curve assessment.
 
-View my project([here](https://github.com/celinargy/Datacamp-Data-Analyst-Degree/tree/f7b664aa5395765d9b8c4046e86f2eef103f833d/1.%20Predictive%20modelling%20for%20agriculture).
+View my project [here](https://github.com/celinargy/Datacamp-Data-Analyst-Degree/tree/f7b664aa5395765d9b8c4046e86f2eef103f833d/1.%20Predictive%20modelling%20for%20agriculture).
 
 ### 2. Unsupervised Learning Models with Penguins
 
